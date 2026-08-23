@@ -27,4 +27,9 @@
 
 3. Write **4 key takeaways**
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="2716" height="3660" alt="Task 05-01" src="https://github.com/user-attachments/assets/c140b672-7a25-4e06-b4ea-6f14d3b5c1fd" />
+
+<img width="2555" height="2976" alt="Task 05-02" src="https://github.com/user-attachments/assets/a8efdb51-4282-4391-b0e5-a8256d7ae7ee" />
+
