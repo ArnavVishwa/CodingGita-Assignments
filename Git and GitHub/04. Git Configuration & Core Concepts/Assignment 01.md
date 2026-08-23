@@ -13,4 +13,8 @@
    - Why do we use the `--global` flag?
    - Do we need to configure name and email for every new project? Why or why not?
 
-**Submission:** Screenshot + written answers
+**Answers:**
+
+<img width="902" height="461" alt="git_config_output" src="https://github.com/user-attachments/assets/a7e6322b-8c77-4296-87ef-e8f91859ea64" />
+
+<img width="3465" height="2179" alt="Task 01" src="https://github.com/user-attachments/assets/95c22f77-826c-4dec-bf86-805905076609" />
