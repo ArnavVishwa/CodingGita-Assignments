@@ -18,4 +18,6 @@ Fill in the missing stages and the commands used at each step.
    - Where does `git commit` save the changes?
    - Does `git commit` upload code to GitHub? Explain.
 
-**Submission:** Table + Flow + answers
+**Answers:**
+
+<img width="2687" height="3656" alt="Task 03" src="https://github.com/user-attachments/assets/fbab4c24-e5d4-4710-893f-488d703bf102" />
