@@ -25,4 +25,6 @@ Remote Repository (GitHub)
 
 3. What is the use of the `-u` flag in `git push -u origin main`?
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="2924" height="2573" alt="Task 04" src="https://github.com/user-attachments/assets/91a1a2b5-f050-4479-b189-1e868b136256" />
