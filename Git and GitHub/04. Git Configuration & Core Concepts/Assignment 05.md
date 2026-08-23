@@ -9,4 +9,6 @@
 4. Explain the following sentence in your own words:  
    “Commit happens locally, Push happens to remote.”
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="3211" height="2414" alt="Task 05" src="https://github.com/user-attachments/assets/265e9038-0d4e-4763-a805-ab3dcbab9759" />
