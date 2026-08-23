@@ -11,4 +11,8 @@
 4. Write 4 **good** commit messages and 4 **bad** commit messages.
 5. Does `git commit` upload code to GitHub? Explain why or why not.
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="2880" height="2353" alt="Task 02-01" src="https://github.com/user-attachments/assets/cb369fbc-1e28-4408-8b03-bdcde03a78ef" />
+
+<img width="2741" height="2886" alt="Task 02-02" src="https://github.com/user-attachments/assets/6bcc5103-5643-447e-8989-95a3e0372bb7" />
