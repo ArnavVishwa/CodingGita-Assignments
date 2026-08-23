@@ -15,4 +15,8 @@
 
 3. What is the difference between **Local Repository** and **Remote Repository**?
 
-**Submission:** Written answers
+**Answers:**
+
+<img width="3342" height="2021" alt="Task 02-01" src="https://github.com/user-attachments/assets/52277f41-2b6e-4d54-b200-a212bb96588f" />
+
+<img width="2514" height="3272" alt="Task 02-02" src="https://github.com/user-attachments/assets/99e8d5a9-5ae9-4311-82f1-e26deb5cef2c" />
