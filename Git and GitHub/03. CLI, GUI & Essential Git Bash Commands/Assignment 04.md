@@ -19,4 +19,6 @@ Perform the following in Git Bash and write the exact commands:
 - What is the difference between `rm` and `rm -r`?
 - Why should we be careful while using `rm -rf`?
 
-**Submission:** Commands list + answers
+**Answers:**
+
+<img width="2855" height="3198" alt="Task 04" src="https://github.com/user-attachments/assets/36050f55-126d-4979-bbae-b933bbfbd21d" />
