@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question 41</title>
+</head>
+<body>
+    <form method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend>Personal Details</legend>
+            <label for="name">Name</label>
+            <input type="text" name="name">
+            <label for="email">Email</label>
+            <input type="email" name="email">
+            <label for="phone">Phone</label>
+            <input type="tel" name="phone">
+        </fieldset>
+        <fieldset>
+            <legend>Experience</legend>
+            <label for="msg">Experience</label>
+            <textarea name="msg"></textarea>
+            <label for="resume">Resume</label>
+            <input type="file" name="resume" accept=".pdf">
+            <label for="employment_type">Employment Type:</label>
+            <label for="type1">Full-time</label>
+            <input type="radio" name="employment_type" id="type1">
+            <label for="type2">Part-time</label>
+            <input type="radio" name="employment_type" id="type2">
+            <label for="type3">Freelance</label>
+            <input type="radio" name="employment_type" id="type3">
+        </fieldset>
+        <input type="checkbox" name="t-and-c" required>
+        <label for="t-and-c">Terms and Conditions</label>
+        <button type="submit">Submit</button>
+        <button type="submit" formnovalidate>Save Draft</button>
+    </form>
+</body>
+</html>
