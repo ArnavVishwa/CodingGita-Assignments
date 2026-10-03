@@ -238,3 +238,113 @@
 // a) Primitive data types can only hold a single value whereas Non-Primitive data types can hold multiple values.
 // b) Numbers, Strings, Booleans, Undefined, Null, Symbol, and BigInt are called Primitive because they are the fundamental and basic data types.
 // c) Object is an example of a Non-Primitive data type. It is considered Non-Primitive because it can hold hold multiple values and is built using primitive data types.
+
+
+// Part H
+
+// Question 1
+// let student = {
+//     name: "Riya",
+//     age: 18,
+//     isEnrolled: true,
+// };
+// console.log(student);
+// console.log(student.name);
+// console.log(student.age);
+// console.log(student.isEnrolled);
+
+// Question 2
+// let scores = [85, 92,78, 90];
+// let mixedData = [51, "data", true, null];
+// console.log(scores);
+// console.log(mixedData);
+// console.log(scores[0]);
+// console.log(scores[scores.length-1]);
+
+// Question 3
+// function calculateArea(length, width){
+//     return length*width;
+// };
+// console.log(calculateArea(2,4));
+// console.log(calculateArea(19,32));
+
+// Question 4
+// let a = 42;
+// let b = "Hello";
+// let c = true;
+// let d = null;
+// let e = {name: "ABC", age: 18};
+// let f = [1,2,3];
+// let g = function abc(){};
+
+// console.log(typeof a, a);
+// console.log(typeof b, b);
+// console.log(typeof c, c);
+// console.log(typeof d, d);
+// console.log(typeof e, e);
+// console.log(typeof f, f);
+// console.log(typeof g, g);
+
+
+// Part I
+
+// Question 5
+// let userName; // Valid
+// let 2ndPlace; // Invalid because variable name can't start with a number
+// let _privateData; // Valid
+// let $price; // Valid
+// let my-age; // Invalid because variable name can't contain a hyphen
+// let function; // Invalid because variable name can't be a reserved keyword
+// let totalCount; // Valid
+// let const; // Invalid because variable name can't be a reserved keyword
+
+// Question 6
+// const number1 = 10;
+// const number2 = 5;
+// let product = number1 * number2;
+// const number3 = 100;
+
+// Question 7
+// let x;
+// x = 10;
+// let y = 134;
+// const PI = 3.14;
+// console.log(x);
+// console.log(y);
+// console.log(PI);
+
+
+// Part J
+
+// Question 8
+// let person = { name: "Amit", age: 22 };
+// let colors = ["red", "green", "blue"];
+// function sayHi() {
+//   return "Hi!";
+// }
+// let empty = null;
+// console.log(typeof person); // object because person holds a object
+// console.log(typeof colors); // object because the type of array is object
+// console.log(typeof sayHi); // function
+// console.log(typeof empty); // object because it is a known JS quirk that the type of null is object 
+// console.log(person.name); // Amit
+// console.log(colors[1]); // green
+// console.log(sayHi()); // Hi!
+
+// Question 9
+// let student1 = { name: "Neha", age: 19 };
+// let scores = [90, 85, 88];
+// function greet(name) {
+//   return "Hello " + name;
+// }
+// let maxScore = 100;
+// maxScore = 95;
+// console.log(student1.name);
+// console.log(scores[0]);
+// console.log(greet("Neha"));
+
+// Question 10
+// a) Object is a collection of key-value pairs, whereas Array is an ordered list of values.
+// b) It is a known JavaScript quirk that typeof null returns "object". No, null is not really an object.
+// c) It is recommended to keep array with a single data type so the code is easier to understand and less error‑prone.
+// d) We should use const by default and use let when we know that the value will change later in the code.
