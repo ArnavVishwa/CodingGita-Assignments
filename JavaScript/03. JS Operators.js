@@ -1,3 +1,5 @@
+// A] Arithmetic Operators
+
 // 1. Addition
 
 // Question 1
@@ -357,3 +359,174 @@
 // let b = 0;
 // let result = a ** b;
 // console.log(result); // 1
+
+
+
+// B] Assignment Operators
+
+// 1. Simple Assignment
+
+// Question 1
+// let studentName = "Priya"
+// let marks = 92
+
+// Question 2
+// let score = 0
+
+// Question 3
+// let a=b=c=50
+
+// Question 4
+// let x;
+// x = 100;
+// console.log(x); // 100
+
+// Question 5
+// let p = 15;
+// let q = p;
+// q = 30;
+// console.log(p, q); // 15 30
+
+
+// 2. Add and Assign
+
+// Question 1
+// let score = 80
+// score += 25
+
+// Question 2
+// let balance = 1500
+// balance += 120
+
+// Question 3
+// let count = 10;
+// count += 5;
+// console.log(count); // 15
+
+// Question 4
+// let msg = "Good";
+// msg += " Morning";
+// console.log(msg); // Good Morning
+
+// Question 5
+// let n = 20; n += "5" // 205 because of concatenation
+
+
+// 3. Subtract and Assign
+
+// Question 1
+// let health = 100
+// health -= 35
+
+// Question 2
+// let stock = 300
+// stock -= 45
+
+// Question 3
+// let lives = 5;
+// lives -= 2;
+// console.log(lives); // 3
+
+// Question 4
+// let num = "40";
+// num -= 15;
+// console.log(num); // 25
+
+// Question 5
+// let x = "abc"; x -= 5; // NaN because "abc" can't convert into a number
+
+
+// 4. Multiply and Assign
+
+// Question 1
+// let price = 500
+// price *= 1.18
+
+// Question 2
+// let quantity = 8
+// quantity *= 3
+
+// Question 3
+// let amount = 200;
+// amount *= 1.1;
+// console.log(amount); // 220
+
+// Question 4
+// let val = "7";
+// val *= 3;
+// console.log(val); 21
+
+// Question 5
+// let y = "hello"; y *= 2; // NaN because "hello" can't convert into a number
+
+
+// 5. Divide and Assign
+
+// Question 1
+// let totalChocolates = 180
+// totalChocolates /= 6
+
+// Question 2
+// let averageSpeed = 300
+// averageSpeed /= 5
+
+// Question 3
+// let total = 400;
+// total /= 8;
+// console.log(total); // 50
+
+// Question 4
+// let num = "100";
+// num /= 4;
+// console.log(num); // 25
+
+// Question 5
+// let z = 50; z /= 0; // Infinity because any non-zero number when divided by 0 results in Infinity
+
+
+// 6. Modulus and Assign
+
+// Question 1
+// let remainder = 47
+// remainder %= 6
+
+// Question 2
+// let remainder = 23
+// remainder %= 12
+
+// Question 3
+// let num = 29;
+// num %= 5;
+// console.log(num); // 4
+
+// Question 4
+// let x = "17";
+// x %= 3;
+// console.log(x); // 2
+
+// Question 5
+// let m = 15; m %= 0; // NaN because a non-zero number % 0 results in NaN
+
+
+// Exponentiation and Assign
+
+// Question 1
+// let side = 5
+// side **= 3
+
+// Question 2
+// let number = 4
+// number **= 2
+
+// Question 3
+// let base = 2;
+// base **= 5;
+// console.log(base); // 32
+
+// Question 4
+// let n = 4;
+// n **= 0.5;
+// console.log(n); // 2
+
+// Question 5
+// let p = 2; p **= -1; // 0.5
