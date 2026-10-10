@@ -530,3 +530,92 @@
 
 // Question 5
 // let p = 2; p **= -1; // 0.5
+
+
+
+// C] Comparison Operators
+
+// 1. Loose Equality
+
+// Question 1
+// console.log("25" == 25); // true
+
+// Question 2
+// console.log(0==false); // true
+
+
+// Question 3
+// console.log(10 == "10"); // true
+// console.log(null == undefined); // true
+
+// Question 4
+// console.log("" == 0); // true
+// console.log([] == false); // true
+
+// Question 5
+// NaN == NaN returns false
+
+
+// 2. Loose Inequality
+
+// Question 1
+// console.log("18" != 18); // false
+
+// Question 2
+// let password = "1234"
+// let enterPass = 1234
+// console.log(password != enterPass); // false
+
+// Question 3
+// console.log(5 != "5"); // false
+// console.log(0 != false); // false
+
+// Question 4
+// console.log(null != undefined); // false
+// console.log("" != 0); // false
+
+// Question 5
+// NaN != NaN returns true
+
+
+// 3. Strict Equality
+
+// Question 1
+// console.log("25" === 25); // false because value is equal but data type is different
+
+// Question 2
+// console.log(0 === false); // false
+// console.log(null === undefined); // false
+
+// Question 3
+// console.log(10 === "10"); // false
+// console.log(true === 1); // false
+
+// Question 4
+// console.log("" === 0); // false
+// console.log([] === false); // false
+
+// Question 5
+// === is prefered because it checks both value and datatype
+
+
+// 4. Strict Inequality
+
+// Question 1
+// console.log("18" !== 18); // true
+
+// Question 2
+// console.log(0 !== false); // true
+// console.log(null !== undefined); // true
+
+// Question 3
+// console.log(5 !== "5"); // true
+// console.log(true !== 1); // true
+
+// Question 4
+// console.log("" !== 0); // true
+// console.log(NaN !== NaN); // true
+
+// Question 5
+// let input = ""
+// console.log(input !== "0"); // true
