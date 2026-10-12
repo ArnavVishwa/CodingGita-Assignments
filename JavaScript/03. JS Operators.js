@@ -824,3 +824,85 @@
 
 // Question 4
 // "10" > "2" is false but 10 > 2 is true because when two strings are compared then each character of the first string is compared to the corresponding character of the second string and when both the operands are numbers then they are compared on their numerical value
+
+
+
+// Part E] Increment / Decrement Operators
+
+// Question 1
+// let counter = 5
+// counter++
+// console.log(counter);
+
+// Question 2
+// let lives = 3
+// lives--
+// console.log(lives);
+
+// Question 3
+// let score = 10
+// score++
+// console.log(score);
+
+// Question 4
+// let items = 8
+// items--
+// console.log(items);
+
+// Question 5
+// let count = 0
+// count++
+// count++
+// console.log(count);
+
+// Question 6
+// let x = 5
+// let y = x++
+// console.log(x, y); // Both values are different because postfix increment operator first assigns the value to y and then increments x by 1
+
+// Question 7
+// let a = 5
+// let b = ++a
+// console.log(a, b); // In the previous question, postfix increment operator was first assigning the value of x in y and then incrementing x by 1. But here prefix increment operator has been used which is first incrementing the value of x by 1 and then assigning the updated value to y
+
+// Question 8
+// let lives = 3
+// let previousLives = lives--
+// console.log(lives, previousLives);
+
+// Question 9
+// let attempts = 0
+// let currentAttempts = ++attempts
+// console.log(attempts, currentAttempts);
+
+// Question 10
+// let points = 100
+// points++
+// points--
+// console.log(points);
+
+// Question 11
+// let x = 10;
+// let y = x++;
+// let z = ++x;
+// console.log(x, y, z); // 12 10 12
+
+// Question 12
+// let a = 5;
+// let b = a-- + ++a;
+// console.log(a, b); // 5 10
+
+// Question 13
+// let m = 7;
+// let n = --m + m++;
+// console.log(m, n); // 7 12
+
+// Question 14
+// let p = 3;
+// let q = p++ + ++p + p;
+// console.log(p, q); // 5 13
+
+// Question 15
+// let val = 0;
+// val = val++ + ++val;
+// console.log(val); // 2
