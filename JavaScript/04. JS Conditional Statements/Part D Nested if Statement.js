@@ -51,6 +51,15 @@
 
 // Question 6
 // let emailAddress = "abc123@xyz.com"
+// if (emailAddress.includes("@")){
+//     let l = emailAddress.length;
+//     let lastChars = emailAddress[l-4]+emailAddress[l-3]+emailAddress[l-2]+emailAddress[l-1]
+//     if (lastChars == ".com"){
+//         if (l>10){
+//             console.log("Valid Email");
+//         }
+//     }
+// }
 
 
 // Question 7
