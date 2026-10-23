@@ -100,3 +100,17 @@
 //     }
 // }
 // console.log("Count:", count);
+
+
+// Question 10
+// let num = 13
+// let numCopy = num
+// let binary = ""
+// for (let i=0; true; i++){
+//     binary = numCopy%2 + binary
+//     numCopy = Math.floor(numCopy/2)
+//     if (numCopy == 0){
+//         break
+//     }
+// }
+// console.log(binary);
